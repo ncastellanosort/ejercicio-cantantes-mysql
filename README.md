@@ -1,2 +1,2 @@
-# CRUD DE disquera en Java con MYSQL
+# CRUD disquera en Java con MYSQL
 Implementar un CRUD en Java con MYSQL para gestionar cantantes.
